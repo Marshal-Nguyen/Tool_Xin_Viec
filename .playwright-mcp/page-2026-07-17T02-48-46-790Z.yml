@@ -1,0 +1,258 @@
+- generic [active] [ref=e1]:
+  - link "NEW Explore outstanding Cloud & Infrastructure jobs. See now" [ref=e3] [cursor=pointer]:
+    - /url: https://itviec.com/segments/viec-lam-cloud-infrastructure?click_action=banner_clicked&touchpoint_type=highlight_banner
+    - generic [ref=e4]:
+      - generic [ref=e5]: NEW
+      - generic [ref=e6]:
+        - generic [ref=e7]: Explore outstanding Cloud & Infrastructure jobs.
+        - generic [ref=e8]: See now
+  - banner [ref=e15]:
+    - navigation [ref=e17]:
+      - link [ref=e24] [cursor=pointer]:
+        - /url: /
+        - img "logo-itviec" [ref=e25]
+      - generic [ref=e27]:
+        - link [ref=e28] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_inbox=true
+        - link [ref=e32] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_notifications=true
+        - link "Sign In" [ref=e39] [cursor=pointer]:
+          - /url: /sign_in
+  - main [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e46]:
+        - generic [ref=e47] [cursor=pointer]: All Cities
+        - generic [ref=e57]:
+          - textbox "Enter keyword skill (Java, iOS...), job title, company..." [ref=e59]: react native
+          - button [ref=e61] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: Company Spotlight
+          - link [ref=e70] [cursor=pointer]:
+            - /url: /companies/persol-career-tech-studio-vietnam?track_action=Click+Branding
+            - img "Persol Career Tech Studio Vietnam Headline Photo" [ref=e72]
+            - img "Persol Career Tech Studio Vietnam Vietnam Big Logo" [ref=e75]
+          - generic [ref=e78]:
+            - link [ref=e79] [cursor=pointer]:
+              - /url: /companies/persol-career-tech-studio-vietnam?track_action=Click+Branding
+              - heading "Persol Career Tech Studio Vietnam" [level=4] [ref=e81]
+            - generic [ref=e82]:
+              - generic [ref=e83]: Ho Chi Minh
+              - paragraph [ref=e89]: GIVE PEOPLE THE POWER TO OWN THEIR WORK- LIFE
+              - link "View company" [ref=e91] [cursor=pointer]:
+                - /url: /companies/persol-career-tech-studio-vietnam?track_action=Click+Branding#our-jobs
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - heading "10 react native jobs in Vietnam" [level=1] [ref=e98]
+            - button "Filter" [ref=e101] [cursor=pointer]
+          - generic [ref=e106]:
+            - generic [ref=e109] [cursor=pointer]:
+              - generic [ref=e110]: Posted 15 days ago
+              - heading "React Native Architect" [level=3] [ref=e112]
+              - generic [ref=e113]:
+                - link "Building Products & Systems that Shape the Future" [ref=e114]:
+                  - /url: /companies/kms-technology?lab_feature=preview_jd_page
+                - link "KMS Technology" [ref=e117]:
+                  - /url: /companies/kms-technology?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e123]:
+                - /url: /sign_in?job=react-native-architect-kms-technology-5253&job_index=0&view_salary_source=search_page
+              - link "Mobile Application Developer" [ref=e128]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=e129]:
+                - generic [ref=e136]: Hybrid
+                - generic "Ho Chi Minh - Da Nang" [ref=e140]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e144]: Posted 15 days ago
+              - heading "Senior/Lead Engineer (React Native, ReactJS, ≥5yoe)" [level=3] [ref=e146]
+              - generic [ref=e147]:
+                - link "Pizza Hut Digital & Technology" [ref=e148]:
+                  - /url: /companies/pizza-hut-digital-technology?lab_feature=preview_jd_page
+                - link "Pizza Hut Digital & Technology" [ref=e151]:
+                  - /url: /companies/pizza-hut-digital-technology?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e157]:
+                - /url: /sign_in?job=senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955&job_index=1&view_salary_source=search_page
+              - link "Frontend Developer" [ref=e162]:
+                - /url: /it-jobs/frontend-developer
+              - generic [ref=e163]:
+                - generic [ref=e170]: Hybrid
+                - generic "Ho Chi Minh" [ref=e174]
+              - list [ref=e177]:
+                - listitem [ref=e178]: Flexible Friday afternoon
+                - listitem [ref=e179]: 18 Annual Leave + 5 Recharge Days/ Year
+                - listitem [ref=e180]: Hybrid working model
+            - generic [ref=e183] [cursor=pointer]:
+              - generic [ref=e184]: Posted 23 days ago
+              - heading "Senior Expo / React Native Developer" [level=3] [ref=e186]
+              - generic [ref=e187]:
+                - link "Annam Software" [ref=e188]:
+                  - /url: /companies/annam-software-company?lab_feature=preview_jd_page
+                - link "Annam Software Company" [ref=e191]:
+                  - /url: /companies/annam-software-company?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e197]:
+                - /url: /sign_in?job=senior-expo-react-native-developer-annam-software-company-4829&job_index=2&view_salary_source=search_page
+              - link "Mobile Application Developer" [ref=e202]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=e203]:
+                - generic [ref=e210]: At office
+                - generic "Ho Chi Minh" [ref=e214]
+            - generic [ref=e217] [cursor=pointer]:
+              - generic [ref=e218]: Posted 27 days ago
+              - heading "Mobile Developer (React Native, English)" [level=3] [ref=e220]
+              - generic [ref=e221]:
+                - link "Digital Unicorn" [ref=e222]:
+                  - /url: /companies/digital-unicorn?lab_feature=preview_jd_page
+                - link "Digital Unicorn" [ref=e225]:
+                  - /url: /companies/digital-unicorn?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e231]:
+                - /url: /sign_in?job=mobile-developer-react-native-english-digital-unicorn-0854&job_index=3&view_salary_source=search_page
+              - link "Mobile Application Developer" [ref=e236]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=e237]:
+                - generic [ref=e244]: At office
+                - generic "Da Nang - Ho Chi Minh" [ref=e248]
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e252]: Posted 30 days ago
+              - heading "Senior React Native Engineer (Full-stack, Node.js)" [level=3] [ref=e254]
+              - generic [ref=e255]:
+                - link "BEWAO CORPORATION" [ref=e256]:
+                  - /url: /companies/bewao-corporation?lab_feature=preview_jd_page
+                - link "BEWAO CORPORATION" [ref=e259]:
+                  - /url: /companies/bewao-corporation?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e265]:
+                - /url: /sign_in?job=senior-react-native-engineer-full-stack-node-js-bewao-corporation-3501&job_index=4&view_salary_source=search_page
+              - link "Mobile Application Developer" [ref=e270]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=e271]:
+                - generic [ref=e278]: At office
+                - generic "Ho Chi Minh" [ref=e282]
+            - generic [ref=e284] [cursor=pointer]:
+              - generic [ref=e285]: SUPER HOT
+              - generic [ref=e288]:
+                - generic [ref=e289]: Posted 6 days ago
+                - heading "Solution Designer (Mobile)" [level=3] [ref=e291]
+                - generic [ref=e292]:
+                  - link "The NAB Innovation Centre Vietnam is owned by NAB - Australia’s largest business bank." [ref=e293]:
+                    - /url: /companies/nab-innovation-centre-vietnam?lab_feature=preview_jd_page
+                  - link "NAB Innovation Centre Vietnam" [ref=e296]:
+                    - /url: /companies/nab-innovation-centre-vietnam?lab_feature=preview_jd_page
+                - link "Sign in to view salary" [ref=e302]:
+                  - /url: /sign_in?job=solution-designer-mobile-nab-innovation-centre-vietnam-1009&job_index=5&view_salary_source=search_page
+                - link "Solution Architect" [ref=e307]:
+                  - /url: /it-jobs/solution-architect
+                - generic [ref=e308]:
+                  - generic [ref=e315]: Hybrid
+                  - generic "Ho Chi Minh" [ref=e319]
+                - list [ref=e322]:
+                  - listitem [ref=e323]: Very competitive remuneration package
+                  - listitem [ref=e324]: Build products for millions of users in Australia
+                  - listitem [ref=e325]: Hybrid and flexible working environment
+            - generic [ref=e328] [cursor=pointer]:
+              - generic [ref=e329]: Posted 13 days ago
+              - heading "Javascript Intern" [level=3] [ref=e331]
+              - generic [ref=e332]:
+                - link "Pure play IT team extensions B2b exclusive outsourcing of highly qualified IT professionals" [ref=e333]:
+                  - /url: /companies/8seneca?lab_feature=preview_jd_page
+                - link "8Seneca" [ref=e336]:
+                  - /url: /companies/8seneca?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e342]:
+                - /url: /sign_in?job=javascript-intern-8seneca-4219&job_index=6&view_salary_source=search_page
+              - link "Internship Accepted" [ref=e349]:
+                - /url: /it-jobs/internship-accepted?click_source=Skill+tag
+              - link "IT Support" [ref=e353]:
+                - /url: /it-jobs/it-support
+              - generic [ref=e354]:
+                - generic [ref=e361]: At office
+                - generic "Ha Noi" [ref=e365]
+            - generic [ref=e368] [cursor=pointer]:
+              - generic [ref=e369]: Posted 21 days ago
+              - heading "Mobile Software Engineer - Attractive Salary" [level=3] [ref=e371]
+              - generic [ref=e372]:
+                - link "Significantly impact healthcare by solving complex issues" [ref=e373]:
+                  - /url: /companies/buymed?lab_feature=preview_jd_page
+                - link "Buymed" [ref=e376]:
+                  - /url: /companies/buymed?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e382]:
+                - /url: /sign_in?job=mobile-software-engineer-attractive-salary-buymed-1134&job_index=7&view_salary_source=search_page
+              - link "Mobile Application Developer" [ref=e387]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=e388]:
+                - generic [ref=e395]: At office
+                - generic "Ho Chi Minh" [ref=e399]
+            - generic [ref=e402] [cursor=pointer]:
+              - generic [ref=e403]: Posted 28 days ago
+              - heading "Mid / Senior Backend Developer (NodeJS)" [level=3] [ref=e405]
+              - generic [ref=e406]:
+                - link "True value of innovation!" [ref=e407]:
+                  - /url: /companies/excel-technologies?lab_feature=preview_jd_page
+                - link "Excel Technologies" [ref=e410]:
+                  - /url: /companies/excel-technologies?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e416]:
+                - /url: /sign_in?job=mid-senior-be-developer-excel-technologies-5829&job_index=8&view_salary_source=search_page
+              - link "Backend Developer" [ref=e421]:
+                - /url: /it-jobs/backend-developer
+              - generic [ref=e422]:
+                - generic [ref=e429]: At office
+                - generic "Ho Chi Minh" [ref=e433]
+            - generic [ref=e436] [cursor=pointer]:
+              - generic [ref=e437]: Posted 30 days ago
+              - heading "Engineering Manager (Frontend/Mobile)" [level=3] [ref=e439]
+              - generic [ref=e440]:
+                - link "The NAB Innovation Centre Vietnam is owned by NAB - Australia’s largest business bank." [ref=e441]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=preview_jd_page
+                - link "NAB Innovation Centre Vietnam" [ref=e444]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=preview_jd_page
+              - link "Sign in to view salary" [ref=e450]:
+                - /url: /sign_in?job=engineering-manager-frontend-mobile-nab-innovation-centre-vietnam-2757&job_index=9&view_salary_source=search_page
+              - link "Manager" [ref=e455]:
+                - /url: /it-jobs/manager
+              - generic [ref=e456]:
+                - generic [ref=e463]: Hybrid
+                - generic "Ho Chi Minh" [ref=e467]
+      - generic [ref=e470] [cursor=pointer]:
+        - generic [ref=e471]: Feedback
+        - img "survey-icon" [ref=e472]
+    - generic [ref=e477]:
+      - link "Home" [ref=e479] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e480]:
+        - generic [ref=e481]: ›
+        - link "All IT jobs" [ref=e482] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs
+      - generic [ref=e483]:
+        - generic [ref=e484]: ›
+        - link "React Native" [ref=e485] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs/react-native
+  - contentinfo [ref=e486]:
+    - generic [ref=e488]:
+      - generic [ref=e490]:
+        - generic [ref=e491]:
+          - img "logo-itviec" [ref=e492]
+          - paragraph [ref=e493]: BUILD YOU THEN BUILD IMPACT
+        - generic [ref=e494]:
+          - link "LinkedIn Profile" [ref=e495] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/itviec/
+          - link "Facebook Fanpage" [ref=e499] [cursor=pointer]:
+            - /url: https://www.facebook.com/ITviec/
+          - link "Youtube Fanpage" [ref=e503] [cursor=pointer]:
+            - /url: https://www.youtube.com/itviec
+      - heading "About Us" [level=4] [ref=e508] [cursor=pointer]
+      - heading "Campaign" [level=4] [ref=e510] [cursor=pointer]
+      - heading "Terms & Conditions" [level=4] [ref=e512] [cursor=pointer]
+      - generic [ref=e513]:
+        - heading "Want to post a job? Contact us at:" [level=4]
+        - generic [ref=e514]:
+          - generic:
+            - paragraph: "Ho Chi Minh: (+84) 977 460 519"
+          - generic:
+            - paragraph: "Ha Noi: (+84) 983 131 351"
+          - generic:
+            - paragraph: "Email: love@itviec.com"
+          - paragraph [ref=e518]:
+            - link "Submit contact information" [ref=e519] [cursor=pointer]:
+              - /url: /contact-form
+    - separator [ref=e520]
+    - generic [ref=e521]:
+      - paragraph [ref=e522]: Copyright © IT VIEC JSC
+      - paragraph [ref=e523]
+      - paragraph [ref=e524]: "Tax code: 0312192258"
+    - img "footer-image" [ref=e526]

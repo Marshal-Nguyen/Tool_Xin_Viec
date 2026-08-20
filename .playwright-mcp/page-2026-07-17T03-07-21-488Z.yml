@@ -1,0 +1,220 @@
+- generic [active] [ref=f20e1]:
+  - main [ref=f20e2]:
+    - generic [ref=f20e3]:
+      - link [ref=f20e5] [cursor=pointer]:
+        - /url: https://fueled.com/careers/
+        - img "Fueled Logo" [ref=f20e6]
+      - generic [ref=f20e7]:
+        - link "Back to jobs" [ref=f20e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/fueledcareers
+        - generic [ref=f20e12]:
+          - generic [ref=f20e13]:
+            - heading "Senior React Native Engineer" [level=1] [ref=f20e14]
+            - generic [ref=f20e15]: Remote
+          - button "Apply" [ref=f20e19] [cursor=pointer]
+        - generic [ref=f20e21]:
+          - paragraph [ref=f20e22]:
+            - strong [ref=f20e23]: "Location:"
+            - text: Remote — Anywhere (Open to applicants located anywhere around the globe)
+          - paragraph [ref=f20e24]: Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and CLEAR.
+          - paragraph [ref=f20e25]:
+            - text: As a
+            - strong [ref=f20e26]: Senior React Native Engineer
+            - text: at Fueled, you will champion the power of React Native to architect, build, and scale high-performance, cross-platform mobile applications that deliver premium user experiences.
+          - paragraph [ref=f20e27]: Drawing on your prior experience with React for the web, you’ll design end-to-end solutions utilizing React Native, Expo, TypeScript, and Node.js-based back-end integrations. You will rely on strong typing to create robust data models, state management, and application architecture for complex, business-oriented apps.
+          - paragraph [ref=f20e28]: Additionally, you’ll integrate with REST/GraphQL APIs, implement effective caching strategies, and establish automated mobile CI/CD pipelines to ensure seamless testing, building, and deployment of reliable, real-time functionality at scale.
+          - paragraph [ref=f20e29]: Your work will turn ambitious ideas into maintainable, future-ready mobile systems that evolve with client needs, raise the bar for quality and performance, and consistently drive measurable outcomes.
+          - paragraph [ref=f20e30]: Intentionally remote and globally distributed across six continents, our team thrives in a culture that values flexibility, creativity, and cutting-edge technology. Together, we’re shaping the future of digital experiences.
+          - heading "What you will do:" [level=3] [ref=f20e31]
+          - list [ref=f20e32]:
+            - listitem [ref=f20e33]: Architect and build polished, cross-platform mobile experiences that turn user engagement into lasting loyalty. You’ll apply modern React Native (Expo) patterns and tooling to deliver performant applications that feel truly native on iOS and Android.
+            - listitem [ref=f20e34]: Own the end-to-end delivery of key product features, from concept to app store deployment and beyond. You won't just code tickets; you'll shape the technical approach, make critical architectural decisions, and ensure what we ship is robust, scalable, and maintainable.
+            - listitem [ref=f20e35]: Elevate the team’s velocity and craft by introducing, validating, and championing tools and practices that raise the technical bar. You’ll proactively identify bottlenecks – whether in state management, native bridges, or CI/CD pipelines – and implement solutions that make the entire team more effective.
+            - listitem [ref=f20e36]: Bridge the gap between ambitious creative vision and technical reality in a mobile context. You’ll collaborate closely with designers and strategists to challenge assumptions, explore what’s possible on mobile, and deliver solutions that balance exceptional user experience with a first-class developer experience.
+          - heading [level=3] [ref=f20e37]:
+            - strong [ref=f20e38]: "What you will achieve:"
+          - list [ref=f20e39]:
+            - listitem [ref=f20e40]: From Day 1, you’re shipping a tangible feature for a live client project, building immediate momentum.
+            - listitem [ref=f20e41]: Within the first month, you’ll own and deliver a key mobile feature end-to-end and improve a core performance metric (like app startup time or frame rate) by at least 10%.
+            - listitem [ref=f20e42]: You will enhance team efficiency by creating reusable components, scripts, or processes that are adopted by your peers.
+            - listitem [ref=f20e43]: By end of the project, you’ll have spearheaded a significant project phase from concept to app store launch, on time and to a high standard.
+            - listitem [ref=f20e44]: Your expertise becomes a multiplier, evidenced by positive client or team feedback on your ability to solve complex mobile challenges.
+          - heading "About you:" [level=3] [ref=f20e45]
+          - list [ref=f20e46]:
+            - listitem [ref=f20e47]: You think in cross-platform systems and reusable components. You get genuine satisfaction from designing a React Native architecture that is intuitive, performant, and delivers a consistent, high-quality experience on both iOS and Android.
+            - listitem [ref=f20e48]: You’re a proactive problem-solver who doesn’t wait for perfect requirements. You thrive on digging into ambiguity, asking "why," and prototyping solutions to complex challenges involving native modules, third-party SDKs, and smooth data flow.
+            - listitem [ref=f20e49]: You have a strong point of view, held loosely. You can articulate a compelling case for a specific technology or architectural approach (like state management libraries or navigation patterns) but are equally committed to the team's final decision and its success.
+            - listitem [ref=f20e50]: You see the "full stack" as a single, interconnected challenge. You're comfortable crafting a polished, dynamic mobile UI with React Native and then diving into the back-end logic, API design, or platform-specific native code that makes it all possible.
+            - listitem [ref=f20e51]: You are a natural collaborator and translator, able to explain mobile-specific constraints to designers and strategic goals to other engineers, ensuring the entire multidisciplinary team is building momentum together.
+          - heading "Contractor Fee" [level=3] [ref=f20e52]
+          - paragraph [ref=f20e53]: Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.
+          - heading "Join our Contractor Pool" [level=3] [ref=f20e54]
+          - paragraph [ref=f20e55]: This role is designed as a contract position, offering you the opportunity to experience our team and culture while showcasing your contributions. When the fit and business needs align, some contractors are invited to explore a transition into full-time roles.
+          - paragraph [ref=f20e56]: If you are passionate about Fueled's mission and think you have what it takes to be successful in this role, please apply. We'd appreciate the opportunity to review your application. Everyone gets a response.
+          - paragraph [ref=f20e57]: Upon meeting the necessary criteria, you'll join the Fueled contractor network, granting you access to project invitations tailored to your expertise and availability when they arise.
+          - paragraph [ref=f20e58]:
+            - text: Any data provided will be processed in accordance with applicable law and our
+            - link "privacy policy" [ref=f20e59] [cursor=pointer]:
+              - /url: https://fueled.com/privacy-policy/
+            - text: . Curious about what to expect during our talent process? Check it out
+            - link "here" [ref=f20e60] [cursor=pointer]:
+              - /url: https://www.notion.so/fueled/What-to-Expect-from-the-Interview-Process-at-Fueled-1d84dccd9d8b80f8a0b0d40b244f4caf?pvs=4
+            - text: ". #LI-Remote"
+          - paragraph [ref=f20e61]:
+            - text: We don't want you to miss any communication from us! To ensure you receive updates on your application, please add
+            - link "jobs@fueled.com" [ref=f20e62] [cursor=pointer]:
+              - /url: mailto:jobs@fueled.com
+            - text: to your contacts list!
+          - paragraph [ref=f20e63]
+          - paragraph [ref=f20e64]
+          - paragraph [ref=f20e65]
+          - paragraph [ref=f20e66]
+          - paragraph [ref=f20e67]
+        - generic [ref=f20e71]:
+          - paragraph [ref=f20e72]: Create a Job Alert
+          - paragraph [ref=f20e73]: Interested in building your career at Fueled? Get future opportunities sent straight to your email.
+          - button "Create alert" [ref=f20e74] [cursor=pointer]
+      - separator [ref=f20e75]
+      - generic [ref=f20e76]:
+        - generic [ref=f20e77]:
+          - generic [ref=f20e78]:
+            - heading "Apply for this job" [level=2] [ref=f20e80]
+            - generic [ref=f20e81]:
+              - paragraph [ref=f20e83]: "*"
+              - paragraph [ref=f20e84]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=f20e87] [cursor=pointer]
+        - generic [ref=f20e88]:
+          - generic [ref=f20e89]:
+            - generic [ref=f20e92]:
+              - generic [ref=f20e93]: First Name*
+              - textbox "First Name" [ref=f20e94]
+            - generic [ref=f20e97]:
+              - generic [ref=f20e98]: Last Name*
+              - textbox "Last Name" [ref=f20e99]
+            - generic [ref=f20e102]:
+              - generic [ref=f20e103]: Preferred First Name
+              - textbox "Preferred First Name" [ref=f20e104]
+            - generic [ref=f20e107]:
+              - generic [ref=f20e108]: Email*
+              - textbox "Email" [ref=f20e109]
+            - group "Phone" [ref=f20e111]:
+              - generic [ref=f20e115]:
+                - generic [ref=f20e116]: Country*
+                - generic [ref=f20e117]:
+                  - log [ref=f20e119]
+                  - generic [ref=f20e121]:
+                    - combobox "Country" [ref=f20e124]
+                    - button "Toggle flyout" [ref=f20e126] [cursor=pointer]
+                  - textbox
+              - generic [ref=f20e131]:
+                - generic [ref=f20e132]: Phone*
+                - textbox "Phone" [ref=f20e133]
+            - generic [ref=f20e134]:
+              - generic [ref=f20e136]:
+                - generic [ref=f20e137]: Location (City)*
+                - generic [ref=f20e138]:
+                  - log [ref=f20e140]
+                  - combobox "Location (City)" [ref=f20e145]
+                  - textbox
+              - button "Locate me" [ref=f20e146] [cursor=pointer]
+            - group "Resume/CV*" [ref=f20e148]:
+              - generic [ref=f20e151]:
+                - generic [ref=f20e153]:
+                  - button "Attach" [ref=f20e154] [cursor=pointer]
+                  - generic [ref=f20e155]: Attach
+                  - button "Attach" [ref=f20e156]
+                - button "Dropbox" [ref=f20e158] [cursor=pointer]
+                - button "Google Drive" [ref=f20e160] [cursor=pointer]
+                - generic [ref=f20e162]:
+                  - button "Enter manually" [ref=f20e163] [cursor=pointer]
+                  - generic [ref=f20e164]: Enter manually
+                - paragraph [ref=f20e165]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f20e167]:
+              - generic [ref=f20e170]:
+                - generic [ref=f20e172]:
+                  - button "Attach" [ref=f20e173] [cursor=pointer]
+                  - generic [ref=f20e174]: Attach
+                  - button "Attach" [ref=f20e175]
+                - button "Dropbox" [ref=f20e177] [cursor=pointer]
+                - button "Google Drive" [ref=f20e179] [cursor=pointer]
+                - generic [ref=f20e181]:
+                  - button "Enter manually" [ref=f20e182] [cursor=pointer]
+                  - generic [ref=f20e183]: Enter manually
+                - paragraph [ref=f20e184]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f20e185]:
+            - separator [ref=f20e186]
+            - generic [ref=f20e189]:
+              - generic [ref=f20e190]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=f20e191]
+            - generic [ref=f20e194]:
+              - generic [ref=f20e195]: Website
+              - textbox "Website" [ref=f20e196]
+            - generic [ref=f20e199]:
+              - generic [ref=f20e200]: What are your pronouns?*
+              - textbox "What are your pronouns?" [ref=f20e201]
+            - generic [ref=f20e204]:
+              - generic [ref=f20e205]: How did you hear about Fueled and this opportunity?*
+              - generic [ref=f20e206]:
+                - log [ref=f20e208]
+                - generic [ref=f20e210]:
+                  - generic [ref=f20e211]:
+                    - generic [ref=f20e212]: Select...
+                    - combobox "How did you hear about Fueled and this opportunity?" [ref=f20e214]
+                  - button "Toggle flyout" [ref=f20e216] [cursor=pointer]
+                - textbox
+            - generic [ref=f20e221]:
+              - generic [ref=f20e222]: If you selected Employee Referral, Job Board, News Article or "Other" please share more information about how you heard about this role (N/A if not applicable):*
+              - textbox "If you selected Employee Referral, Job Board, News Article or \"Other\" please share more information about how you heard about this role (N/A if not applicable):" [ref=f20e223]
+            - group "What is your employment preference? *" [ref=f20e225]:
+              - generic [ref=f20e227]:
+                - checkbox "Permanent/Full-time" [ref=f20e229]
+                - generic [ref=f20e230]: Permanent/Full-time
+              - generic [ref=f20e231]:
+                - checkbox "Freelance/Contracting" [ref=f20e233]
+                - generic [ref=f20e234]: Freelance/Contracting
+              - generic [ref=f20e235]:
+                - checkbox "Open to Either" [ref=f20e237]
+                - generic [ref=f20e238]: Open to Either
+            - generic [ref=f20e241]:
+              - generic [ref=f20e242]: Do you have 2 or more years of experience working in a consulting firm or agency environment (e.g., full service digital agency, branding agency, social media agency, creative agency, etc.)?*
+              - generic [ref=f20e243]:
+                - log [ref=f20e245]
+                - generic [ref=f20e247]:
+                  - generic [ref=f20e248]:
+                    - generic [ref=f20e249]: Select...
+                    - combobox "Do you have 2 or more years of experience working in a consulting firm or agency environment (e.g., full service digital agency, branding agency, social media agency, creative agency, etc.)?" [ref=f20e251]
+                  - button "Toggle flyout" [ref=f20e253] [cursor=pointer]
+                - textbox
+            - generic [ref=f20e258]:
+              - generic [ref=f20e259]: If Yes, please name the consulting firm or agency.
+              - textbox "If Yes, please name the consulting firm or agency." [ref=f20e260]
+            - generic [ref=f20e263]:
+              - generic [ref=f20e264]: If we make an offer, how much lead time will you need before you can start? *
+              - generic [ref=f20e265]:
+                - log [ref=f20e267]
+                - generic [ref=f20e269]:
+                  - generic [ref=f20e270]:
+                    - generic [ref=f20e271]: Select...
+                    - combobox "If we make an offer, how much lead time will you need before you can start?" [ref=f20e273]
+                  - button "Toggle flyout" [ref=f20e275] [cursor=pointer]
+                - textbox
+            - generic [ref=f20e280]:
+              - generic [ref=f20e281]: Do you have any upcoming commitments over the next three months that could affect your work schedule or availability? (For example, travel, vacations, or other obligations.) *
+              - textbox "Do you have any upcoming commitments over the next three months that could affect your work schedule or availability? (For example, travel, vacations, or other obligations.)" [ref=f20e282]
+            - generic [ref=f20e285]:
+              - generic [ref=f20e286]: US Work Authorization Status:*
+              - generic [ref=f20e287]:
+                - log [ref=f20e289]
+                - generic [ref=f20e291]:
+                  - generic [ref=f20e292]:
+                    - generic [ref=f20e293]: Select...
+                    - combobox "US Work Authorization Status:" [ref=f20e295]
+                  - button "Toggle flyout" [ref=f20e297] [cursor=pointer]
+                - textbox
+          - button "Submit application" [ref=f20e301] [cursor=pointer]
+  - contentinfo [ref=f20e302]:
+    - generic [ref=f20e303]:
+      - paragraph [ref=f20e304]: Powered by
+      - link [ref=f20e305] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f20e306]

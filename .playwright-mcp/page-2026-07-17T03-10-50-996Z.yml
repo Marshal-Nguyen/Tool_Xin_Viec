@@ -1,0 +1,97 @@
+- generic [ref=f37e2]:
+  - list [ref=f37e4]:
+    - listitem [ref=f37e5]:
+      - link [ref=f37e6] [cursor=pointer]:
+        - /url: https://sekaiapp.com
+        - img "Sekai" [ref=f37e7]
+    - listitem
+    - listitem
+  - generic [ref=f37e8]:
+    - generic [ref=f37e9]:
+      - generic [ref=f37e10]:
+        - heading [level=1] [ref=f37e11]:
+          - strong [ref=f37e12]: Join Sekai to build the TikTok for mini apps
+        - paragraph [ref=f37e13]: Sekai is an AI-driven consumer platform where people create, remix, share, and play interactive content instantly. We are building the next generation of consumer social products — where content is not just watched, but played, remixed, and rebuilt by the community.
+        - paragraph [ref=f37e14]: Our product sits at the intersection of AI, social, and interactive entertainment. Users can describe what they want to create, and Sekai turns that idea into a playable mini app — from games and quizzes to interactive stories, tools, and viral social experiences.
+        - paragraph [ref=f37e15]: We are a Series A company backed by leading investors including Khosla, a16z, Mayfield, and A*, with $30M raised to date.
+        - paragraph [ref=f37e16]: We are a remote-first team across all positions. We offer competitive salaries plus equity, full medical and health insurance benefits, and the opportunity to join an ambitious, AI-native team building a real consumer app at the frontier of AI.
+        - paragraph [ref=f37e17]: At Sekai, you will work with people who move fast, use AI deeply in how they build and operate, and constantly learn from the latest developments in the AI world. You will have strong ownership, flexibility to explore, and the chance to help shape a new category from an early stage.
+      - status [ref=f37e18]:
+        - text: Open Positions
+        - generic [ref=f37e19]: (7)
+    - generic [ref=f37e20]:
+      - generic [ref=f37e21]:
+        - generic [ref=f37e22]:
+          - generic [ref=f37e23]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f37e24]:
+          - combobox "Department" [ref=f37e26]:
+            - option "All Departments"
+            - option "Engineering Leadership (1)"
+            - option "Product (2)"
+            - option "Technical Staff (4)"
+          - combobox "Employment" [ref=f37e28]:
+            - option "All Employment Types"
+            - option "Full time (7)"
+          - combobox "Location" [ref=f37e30]:
+            - option "All Locations"
+            - option "San Francisco (1)"
+            - option "United States-Remote (6)"
+          - combobox "Location Type" [ref=f37e32]:
+            - option "All Location Types"
+            - option "Remote (6)"
+        - status [ref=f37e33]: No filters applied
+      - generic [ref=f37e34]:
+        - heading "Engineering Leadership" [level=2] [ref=f37e35]
+        - link [ref=f37e38] [cursor=pointer]:
+          - /url: /sekai/655d5942-2f0c-4ce6-83df-8e8184222672
+          - generic [ref=f37e39]:
+            - heading "Technical Lead" [level=3] [ref=f37e40]
+            - paragraph [ref=f37e42]: Engineering Leadership • United States-Remote • Full time • Remote
+        - heading "Product" [level=2] [ref=f37e43]
+        - generic [ref=f37e45]:
+          - link [ref=f37e46] [cursor=pointer]:
+            - /url: /sekai/534298cc-7123-4062-b2d0-061c41ff319f
+            - generic [ref=f37e47]:
+              - heading "AI Product Manager (Remote)" [level=3] [ref=f37e48]
+              - paragraph [ref=f37e50]: Product • United States-Remote • Full time • Remote
+          - link [ref=f37e51] [cursor=pointer]:
+            - /url: /sekai/0ec2d614-5bf6-45c7-8f00-2ec726329ca1
+            - generic [ref=f37e52]:
+              - heading "Founding Product Designer" [level=3] [ref=f37e53]
+              - paragraph [ref=f37e55]: Product • United States-Remote • Full time • Remote
+        - heading "Technical Staff" [level=2] [ref=f37e56]
+        - generic [ref=f37e58]:
+          - link [ref=f37e59] [cursor=pointer]:
+            - /url: /sekai/6b385ffe-8550-44cb-969e-5fae13d6f42a
+            - generic [ref=f37e60]:
+              - heading "AI Agent Engineer (Coding Agent)" [level=3] [ref=f37e61]
+              - paragraph [ref=f37e63]: Technical Staff • United States-Remote • Full time • Remote
+          - link [ref=f37e64] [cursor=pointer]:
+            - /url: /sekai/3b727ebd-b3d3-4f32-a955-c4aa57f8e14f
+            - generic [ref=f37e65]:
+              - heading "AI Product Engineer" [level=3] [ref=f37e66]
+              - paragraph [ref=f37e68]: Technical Staff • United States-Remote • Full time • Remote
+          - link [ref=f37e69] [cursor=pointer]:
+            - /url: /sekai/0be27090-6f50-4cd1-a8c5-4c6326e2a130
+            - generic [ref=f37e70]:
+              - heading "Founding iOS Engineer" [level=3] [ref=f37e71]
+              - paragraph [ref=f37e73]: Technical Staff • San Francisco • Full time
+          - link [ref=f37e74] [cursor=pointer]:
+            - /url: /sekai/512cc777-ad6b-4924-8fef-fa5325811483
+            - generic [ref=f37e75]:
+              - heading "Senior Machine Learning Engineer, Recommendation" [level=3] [ref=f37e76]
+              - paragraph [ref=f37e78]: Technical Staff • United States-Remote • Full time • Remote
+      - paragraph [ref=f37e80]: We welcome candidates who are AI-native, product-minded, and excited to build consumer products
+  - contentinfo [ref=f37e81]:
+    - link "Learn more about Ashby" [ref=f37e82] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f37e83]: Powered by
+      - img "Ashby" [ref=f37e84]
+    - paragraph [ref=f37e90]:
+      - link "Privacy Policy" [ref=f37e91] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f37e92] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f37e93] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

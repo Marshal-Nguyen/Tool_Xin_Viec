@@ -1,0 +1,430 @@
+- generic [active] [ref=e1]:
+  - link "NEW Explore outstanding Cloud & Infrastructure jobs. See now" [ref=e3] [cursor=pointer]:
+    - /url: https://itviec.com/segments/viec-lam-cloud-infrastructure?click_action=banner_clicked&touchpoint_type=highlight_banner
+    - generic [ref=e4]:
+      - generic [ref=e5]: NEW
+      - generic [ref=e6]:
+        - generic [ref=e7]: Explore outstanding Cloud & Infrastructure jobs.
+        - generic [ref=e8]: See now
+  - banner [ref=e15]:
+    - navigation [ref=e17]:
+      - link [ref=e24] [cursor=pointer]:
+        - /url: /
+        - img "logo-itviec" [ref=e25]
+      - generic [ref=e27]:
+        - link [ref=e28] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_inbox=true
+        - link [ref=e32] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_notifications=true
+        - link "Sign In" [ref=e39] [cursor=pointer]:
+          - /url: /sign_in
+  - main [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e47]:
+                - heading "Senior/Lead Engineer (React Native, ReactJS, ≥5yoe)" [level=1] [ref=e48]
+                - generic [ref=e49]: Pizza Hut Digital & Technology
+                - link "Sign in to view salary" [ref=e55] [cursor=pointer]:
+                  - /url: /sign_in?job=senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955&view_salary_source=jd_page
+              - generic [ref=e57]:
+                - link "Apply now" [ref=e58] [cursor=pointer]:
+                  - /url: /sign_in?applying=true&job=senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955
+                - link "Save this job" [ref=e60] [cursor=pointer]:
+                  - /url: /sign_in
+            - generic [ref=e63]:
+              - generic [ref=e64]: "+2"
+              - generic [ref=e73]:
+                - generic [ref=e74]:
+                  - generic [ref=e75]:
+                    - text: Waseco Building - 10 Pho Quang Street, Ward 02, Tan Son Hoa, Ho Chi Minh
+                    - link [ref=e78] [cursor=pointer]:
+                      - /url: https://www.google.com/maps?q=Waseco+Building+-+10+Pho+Quang+Street%2C+Ward+02%2C+Tan+Son+Hoa%2C+Ho+Chi+Minh
+                  - generic [ref=e81]: Hybrid
+                  - generic [ref=e90]: Posted 15 days ago
+                - generic [ref=e94]:
+                  - generic [ref=e95]: "Skills:"
+                  - generic [ref=e96]:
+                    - link "React Native" [ref=e97] [cursor=pointer]:
+                      - /url: /it-jobs/react-native?click_source=Skill+tag
+                    - link "Leadership" [ref=e98] [cursor=pointer]:
+                      - /url: /it-jobs/leadership?click_source=Skill+tag
+                    - link "Mobile Apps" [ref=e99] [cursor=pointer]:
+                      - /url: /it-jobs/mobile-apps?click_source=Skill+tag
+                    - link "AI" [ref=e100] [cursor=pointer]:
+                      - /url: /it-jobs/ai?click_source=Skill+tag
+                    - link "TypeScript" [ref=e101] [cursor=pointer]:
+                      - /url: /it-jobs/typescript?click_source=Skill+tag
+                    - link "ReactJS" [ref=e102] [cursor=pointer]:
+                      - /url: /it-jobs/reactjs?click_source=Skill+tag
+                - generic [ref=e103]:
+                  - generic [ref=e104]: "Job Expertise:"
+                  - link "Frontend Developer" [ref=e106] [cursor=pointer]:
+                    - /url: /it-jobs/frontend-developer
+                - generic [ref=e107]:
+                  - generic [ref=e108]: "Job Domain:"
+                  - generic [ref=e109]: Software Products and Web Services
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - heading "Top 3 reasons to join us" [level=2] [ref=e113]
+                - list [ref=e114]:
+                  - listitem [ref=e115]: Flexible Friday afternoon
+                  - listitem [ref=e116]: 18 Annual Leave + 5 Recharge Days/ Year
+                  - listitem [ref=e117]: Hybrid working model
+              - generic [ref=e119]:
+                - heading "Job description" [level=2] [ref=e120]
+                - heading "About the role" [level=2] [ref=e121]
+                - paragraph [ref=e122]:
+                  - text: We're building the
+                  - strong [ref=e123]: YUM! SuperApp
+                  - text: — the platform that powers day-to-day operations across
+                  - strong [ref=e124]: 29,500+ restaurants worldwide
+                  - text: (KFC, Pizza Hut, Taco Bell, The Habit Burger & Grill). It's high-scale, mission-critical, and used by restaurant teams globally every single day. And it keeps growing fast.
+                - paragraph [ref=e125]
+                - paragraph [ref=e126]:
+                  - text: We're looking for a
+                  - strong [ref=e127]: Senior Software Engineer
+                  - text: "who lives and breathes React Native and knows when to drop into native code. You'll own real chunks of the mobile experience end to end — from architecture, to release, to the production issue at 4pm on a Friday. There's plenty of room to shape how the team works and help other engineers grow, but make no mistake: this is a hands-on building role first."
+                - paragraph [ref=e128]
+                - paragraph [ref=e129]:
+                  - text: We work
+                  - strong [ref=e130]: AI-native
+                  - text: . We expect you to drive product outcomes with AI assistants and MCP-connected workflows —
+                  - strong [ref=e131]: Claude, Claude Code, Figma Make
+                  - text: ", and the rest — not just to write code faster, but to prototype, design, and ship better. If you already build this way (or you're itching to), you'll feel right at home."
+                - paragraph [ref=e132]
+                - heading "What you'll do" [level=2] [ref=e133]
+                - list [ref=e134]:
+                  - listitem [ref=e135]:
+                    - strong [ref=e136]: Build, ship, and own
+                    - text: scalable React Native features across iOS and Android — with quality, performance, and reliability baked in from the start.
+                  - listitem [ref=e137]:
+                    - text: Design and drive
+                    - strong [ref=e138]: scalable frontend architecture
+                    - text: — set the patterns, structure, and conventions that let the app (and the team) grow without grinding to a halt.
+                  - listitem [ref=e139]:
+                    - text: Contribute to our
+                    - strong [ref=e140]: ReactJS web app
+                    - text: ", keeping architecture and design patterns consistent across mobile and web."
+                  - listitem [ref=e141]: Work closely with backend engineers, designers, and product managers to turn product ideas into things people actually use.
+                  - listitem [ref=e142]: Own what you ship after release — proactively catch and fix production issues using Sentry, Crashlytics, Datadog, and similar tools.
+                  - listitem [ref=e143]:
+                    - text: Drive
+                    - strong [ref=e144]: performance
+                    - text: ": faster startup, smoother lists, smaller bundles, fewer crashes — on real devices, including the older Androids."
+                  - listitem [ref=e145]:
+                    - text: Use
+                    - strong [ref=e146]: AI to drive outcomes
+                    - text: ", not just to type faster — lean on Claude, Claude Code, Figma Make, and MCP servers to go from idea to working prototype to shipped feature. We want you pushing these tools hard and sharing what works back to the team."
+                  - listitem [ref=e147]: Bring your point of view to technical planning, architecture discussions, and code reviews.
+                  - listitem [ref=e148]:
+                    - text: Be a
+                    - strong [ref=e149]: go-to resource for less-experienced engineers
+                    - text: — raise the team's bar through code reviews, pairing, and sharing what you know.
+              - generic [ref=e151]:
+                - heading "Your skills and experience" [level=2] [ref=e152]
+                - list [ref=e153]:
+                  - listitem [ref=e154]:
+                    - strong [ref=e155]: 5+ years
+                    - text: building frontend apps (React Native + ReactJS), with
+                    - strong [ref=e156]: React Native as your core strength
+                    - text: .
+                  - listitem [ref=e157]: A track record of shipping and maintaining large-scale production apps.
+                  - listitem [ref=e158]:
+                    - text: Proven ability to
+                    - strong [ref=e159]: create and drive scalable frontend architectures
+                    - text: — you've designed structure and patterns that held up as apps and teams grew.
+                  - listitem [ref=e160]:
+                    - text: Strong
+                    - strong [ref=e161]: TypeScript
+                    - text: ", plus a real understanding of React Native internals, performance tuning, and debugging."
+                  - listitem [ref=e162]: Comfortable making state-management trade-offs (Redux / Zustand / React Query) and explaining why.
+                  - listitem [ref=e163]: Hands-on with monitoring and observability tools (Sentry, Datadog, Crashlytics).
+                  - listitem [ref=e164]: Familiar with native code (Java / Kotlin / Swift / Obj-C) and mobile build pipelines.
+                  - listitem [ref=e165]:
+                    - text: Genuinely good with
+                    - strong [ref=e166]: AI dev tools
+                    - text: (Claude, Claude Code, Figma Make, Copilot/Cursor, MCP) — you use them daily and you have a point of view on where they help and where they don't.
+                  - listitem [ref=e167]:
+                    - text: Experience
+                    - strong [ref=e168]: mentoring and coaching other engineers
+                    - text: — you're someone teammates come to, and you lift the people around you. (This is a core part of the role, not a bonus — but it's about being a technical resource, not managing people.)
+                  - listitem [ref=e169]:
+                    - text: Solid communication in
+                    - strong [ref=e170]: English
+                    - text: — you can collaborate across timezones and explain technical decisions clearly.
+                - heading [level=2] [ref=e171]
+                - heading "What you'll get to learn here" [level=2] [ref=e172]
+                - paragraph [ref=e173]:
+                  - generic [ref=e174]: You don't need all of this on day one. This is the runway — what you'll pick up and grow into with us.
+                - list [ref=e175]:
+                  - listitem [ref=e176]:
+                    - text: Own
+                    - strong [ref=e177]: CI/CD and cloud infra
+                    - text: end to end (AWS, Firebase, fastlane, EAS).
+                  - listitem [ref=e178]:
+                    - text: Go deep on
+                    - strong [ref=e179]: authentication & security
+                    - text: (OAuth, JWT, Cognito, Firebase Auth).
+                  - listitem [ref=e180]:
+                    - text: Work with
+                    - strong [ref=e181]: monorepo tooling
+                    - text: at scale (Nx, Turborepo).
+                  - listitem [ref=e182]:
+                    - text: Help shape and govern our
+                    - strong [ref=e183]: design system
+                    - text: .
+                  - listitem [ref=e184]:
+                    - text: Level up
+                    - strong [ref=e185]: testing
+                    - text: — from unit to E2E (Detox, Cypress, Maestro).
+                  - listitem [ref=e186]:
+                    - text: Grow toward
+                    - strong [ref=e187]: Staff-level scope
+                    - text: — owning larger technical initiatives end to end as you progress (the IC track here goes all the way up; management is a choice, not the only path).
+              - generic [ref=e189]:
+                - heading "Why you'll love working here" [level=2] [ref=e190]
+                - paragraph [ref=e191]:
+                  - strong [ref=e192]: "Attractive Benefits:"
+                - list [ref=e193]:
+                  - listitem [ref=e194]: 100% salary during probation period
+                  - listitem [ref=e195]: "Annual Leave: 18 days/ year"
+                  - listitem [ref=e196]: Five “Recharge Days” – Extra days, in addition to company holidays.
+                  - listitem [ref=e197]: Flexible Friday afternoon
+                  - listitem [ref=e198]: Full salary insurance
+                  - listitem [ref=e199]: 13th-month bonus
+                  - listitem [ref=e200]: Gift + 1 day off for birthday
+                  - listitem [ref=e201]: Advanced health insurance (Generali)
+                  - listitem [ref=e202]: "Regular engagement activities: sport clubs, internal event…"
+                  - listitem [ref=e203]: Support Macbook and Monitor
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - link [ref=e207] [cursor=pointer]:
+                - /url: /companies/pizza-hut-digital-technology
+              - generic [ref=e209]:
+                - heading [level=3] [ref=e210]:
+                  - link "Pizza Hut Digital & Technology" [ref=e211] [cursor=pointer]:
+                    - /url: /companies/pizza-hut-digital-technology
+                - link "4.8" [ref=e212] [cursor=pointer]:
+                  - /url: /companies/pizza-hut-digital-technology/review?job_slug=senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955&track_rating_source=JDpage
+            - paragraph [ref=e241]: Pizza Hut Digital & Technology
+            - generic [ref=e242]:
+              - generic [ref=e243]:
+                - generic [ref=e244]: Company type
+                - generic [ref=e245]: IT Product
+              - generic [ref=e246]:
+                - generic [ref=e247]: Company industry
+                - generic [ref=e248]: Software Products and Web Services
+              - generic [ref=e251]:
+                - generic [ref=e252]: Company size
+                - generic [ref=e253]: 51-150 employees
+              - generic [ref=e254]:
+                - generic [ref=e255]: Country
+                - generic [ref=e256]: United Kingdom
+              - generic [ref=e260]:
+                - generic [ref=e261]: Working days
+                - generic [ref=e262]: Monday - Friday
+              - generic [ref=e263]:
+                - generic [ref=e264]: Overtime policy
+                - generic [ref=e265]: No OT
+        - generic [ref=e268]:
+          - heading "More jobs for you" [level=2] [ref=e269]
+          - generic [ref=e271]:
+            - generic [ref=e272]: Get similar jobs by email
+            - link "Subscribe" [ref=e273] [cursor=pointer]:
+              - /url: /sign_in
+          - generic [ref=e277]:
+            - generic [ref=e280] [cursor=pointer]:
+              - generic [ref=e281]: SUPER HOT
+              - generic [ref=e284]: Posted 6 days ago
+              - heading [level=3] [ref=e286]:
+                - link "Solution Designer (Mobile)" [ref=e287]:
+                  - /url: /it-jobs/solution-designer-mobile-nab-innovation-centre-vietnam-1009?lab_feature=similar_job
+              - generic [ref=e288]:
+                - link "NAB Innovation Centre Vietnam Profile" [ref=e289]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+                - link "NAB Innovation Centre Vietnam" [ref=e292]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e298]:
+                - /url: /sign_in?job=solution-designer-mobile-nab-innovation-centre-vietnam-1009&view_salary_source=jd_page
+              - link "Solution Architect" [ref=e303]:
+                - /url: /it-jobs/solution-architect
+              - generic [ref=e304]:
+                - generic [ref=e311]: Hybrid
+                - generic "Ho Chi Minh" [ref=e315]
+            - generic [ref=e318] [cursor=pointer]:
+              - generic [ref=e319]: SUPER HOT
+              - generic [ref=e322]: Posted 2 days ago
+              - heading [level=3] [ref=e324]:
+                - link "[Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS)" [ref=e325]:
+                  - /url: /it-jobs/ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516?lab_feature=similar_job
+              - generic [ref=e326]:
+                - link "ONE Tech Stop Vietnam Company Ltd Profile" [ref=e327]:
+                  - /url: /companies/one-tech-stop-vietnam-company-ltd?lab_feature=similar_job
+                - link "ONE Tech Stop Vietnam Company Ltd" [ref=e330]:
+                  - /url: /companies/one-tech-stop-vietnam-company-ltd?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e336]:
+                - /url: /sign_in?job=ho-chi-minh-full-stack-developer-reactjs-nodejs-one-tech-stop-vietnam-company-ltd-4516&view_salary_source=jd_page
+              - link "Fullstack Developer" [ref=e341]:
+                - /url: /it-jobs/fullstack-developer
+              - generic [ref=e342]:
+                - generic [ref=e349]: At office
+                - generic "Ho Chi Minh" [ref=e353]
+            - generic [ref=e356] [cursor=pointer]:
+              - generic [ref=e357]: SUPER HOT
+              - generic [ref=e360]: Posted 2 days ago
+              - heading [level=3] [ref=e362]:
+                - link "Principal Frontend Engineer (ReactJS/ VueJS)" [ref=e363]:
+                  - /url: /it-jobs/principal-frontend-engineer-reactjs-vuejs-andpad-vietnam-co-ltd-4152?lab_feature=similar_job
+              - generic [ref=e364]:
+                - link "ANDPAD VietNam Co., Ltd Profile" [ref=e365]:
+                  - /url: /companies/andpad-vietnam-co-ltd?lab_feature=similar_job
+                - link "ANDPAD VietNam Co., Ltd" [ref=e368]:
+                  - /url: /companies/andpad-vietnam-co-ltd?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e374]:
+                - /url: /sign_in?job=principal-frontend-engineer-reactjs-vuejs-andpad-vietnam-co-ltd-4152&view_salary_source=jd_page
+              - link "Frontend Developer" [ref=e379]:
+                - /url: /it-jobs/frontend-developer
+              - generic [ref=e380]:
+                - generic [ref=e387]: Hybrid
+                - generic "Ho Chi Minh - Ha Noi" [ref=e391]
+            - generic [ref=e394] [cursor=pointer]:
+              - generic [ref=e395]: SUPER HOT
+              - generic [ref=e398]: Posted 3 days ago
+              - heading [level=3] [ref=e400]:
+                - link "Sr Fullstack Engineer (ReactJS, TypeScript, PostgreSQL)" [ref=e401]:
+                  - /url: /it-jobs/sr-fullstack-engineer-reactjs-typescript-postgresql-caddi-vietnam-co-ltd-0423?lab_feature=similar_job
+              - generic [ref=e402]:
+                - link "CADDI VIETNAM Co., Ltd. Profile" [ref=e403]:
+                  - /url: /companies/caddi-vietnam-co-ltd?lab_feature=similar_job
+                - link "CADDI VIETNAM Co., Ltd." [ref=e406]:
+                  - /url: /companies/caddi-vietnam-co-ltd?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e412]:
+                - /url: /sign_in?job=sr-fullstack-engineer-reactjs-typescript-postgresql-caddi-vietnam-co-ltd-0423&view_salary_source=jd_page
+              - link "Fullstack Developer" [ref=e417]:
+                - /url: /it-jobs/fullstack-developer
+              - generic [ref=e418]:
+                - generic [ref=e425]: At office
+                - generic "Ho Chi Minh - Ha Noi" [ref=e429]
+            - generic [ref=e432] [cursor=pointer]:
+              - generic [ref=e433]: HOT
+              - generic [ref=e434]: Posted 1 day ago
+              - heading [level=3] [ref=e436]:
+                - link "Technical Lead (.NET & AI Solutions)" [ref=e437]:
+                  - /url: /it-jobs/technical-lead-net-ai-solutions-new-ocean-is-4901?lab_feature=similar_job
+              - generic [ref=e438]:
+                - link "New Ocean IS Profile" [ref=e439]:
+                  - /url: /companies/new-ocean-is?lab_feature=similar_job
+                - link "New Ocean IS" [ref=e442]:
+                  - /url: /companies/new-ocean-is?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e448]:
+                - /url: /sign_in?job=technical-lead-net-ai-solutions-new-ocean-is-4901&view_salary_source=jd_page
+              - link "Software/Technical Architect" [ref=e453]:
+                - /url: /it-jobs/software-technical-architect
+              - generic [ref=e454]:
+                - generic [ref=e461]: At office
+                - generic "Ho Chi Minh" [ref=e465]
+            - generic [ref=e468] [cursor=pointer]:
+              - generic [ref=e469]: SUPER HOT
+              - generic [ref=e472]: Posted 2 days ago
+              - heading [level=3] [ref=e474]:
+                - link "Technical Leader/ Technical Architect (.NET, Japanese)" [ref=e475]:
+                  - /url: /it-jobs/technical-leader-technical-architect-net-japanese-nec-vietnam-1103?lab_feature=similar_job
+              - generic [ref=e476]:
+                - link "NEC Vietnam Profile" [ref=e477]:
+                  - /url: /companies/nec-vietnam?lab_feature=similar_job
+                - link "NEC Vietnam" [ref=e480]:
+                  - /url: /companies/nec-vietnam?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e486]:
+                - /url: /sign_in?job=technical-leader-technical-architect-net-japanese-nec-vietnam-1103&view_salary_source=jd_page
+              - link "Software/Technical Architect" [ref=e491]:
+                - /url: /it-jobs/software-technical-architect
+              - generic [ref=e492]:
+                - generic [ref=e499]: Hybrid
+                - generic "Ho Chi Minh" [ref=e503]
+            - generic [ref=e506] [cursor=pointer]:
+              - generic [ref=e507]: SUPER HOT
+              - generic [ref=e510]: Posted 4 days ago
+              - heading [level=3] [ref=e512]:
+                - link "Senior Frontend Engineer (Banking, Typescript)" [ref=e513]:
+                  - /url: /it-jobs/senior-frontend-engineer-banking-typescript-raksul-vietnam-3848?lab_feature=similar_job
+              - generic [ref=e514]:
+                - link "RAKSUL Vietnam Profile" [ref=e515]:
+                  - /url: /companies/raksul-vietnam?lab_feature=similar_job
+                - link "RAKSUL Vietnam" [ref=e518]:
+                  - /url: /companies/raksul-vietnam?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e524]:
+                - /url: /sign_in?job=senior-frontend-engineer-banking-typescript-raksul-vietnam-3848&view_salary_source=jd_page
+              - link "Frontend Developer" [ref=e529]:
+                - /url: /it-jobs/frontend-developer
+              - generic [ref=e530]:
+                - generic [ref=e537]: Hybrid
+                - generic "Ho Chi Minh" [ref=e541]
+            - generic [ref=e544] [cursor=pointer]:
+              - generic [ref=e545]: SUPER HOT
+              - generic [ref=e548]: Posted 6 days ago
+              - heading [level=3] [ref=e550]:
+                - link "Senior Fullstack Engineer (Python/Java/Golang)" [ref=e551]:
+                  - /url: /it-jobs/senior-fullstack-engineer-python-java-golang-itviec-recruitment-consulting-0431?lab_feature=similar_job
+              - generic [ref=e552]:
+                - link "ITviec Recruitment Consulting Profile" [ref=e553]:
+                  - /url: /companies/itviec-recruitment-consulting?lab_feature=similar_job
+                - link "ITviec Recruitment Consulting" [ref=e556]:
+                  - /url: /companies/itviec-recruitment-consulting?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=e562]:
+                - /url: /sign_in?job=senior-fullstack-engineer-python-java-golang-itviec-recruitment-consulting-0431&view_salary_source=jd_page
+              - link "Fullstack Developer" [ref=e567]:
+                - /url: /it-jobs/fullstack-developer
+              - generic [ref=e568]:
+                - generic [ref=e575]: At office
+                - generic "Ho Chi Minh" [ref=e579]
+      - generic [ref=e581] [cursor=pointer]:
+        - generic [ref=e582]: Feedback
+        - img "survey-icon" [ref=e583]
+    - generic [ref=e588]:
+      - link "Home" [ref=e590] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e591]:
+        - generic [ref=e592]: ›
+        - link "All IT jobs" [ref=e593] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs
+      - generic [ref=e594]:
+        - generic [ref=e595]: ›
+        - link "Senior/Lead Engineer (React Native, ReactJS, ≥5yoe)" [ref=e596] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs/senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955
+  - contentinfo [ref=e597]:
+    - generic [ref=e599]:
+      - generic [ref=e601]:
+        - generic [ref=e602]:
+          - img "logo-itviec" [ref=e603]
+          - paragraph [ref=e604]: BUILD YOU THEN BUILD IMPACT
+        - generic [ref=e605]:
+          - link "LinkedIn Profile" [ref=e606] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/itviec/
+          - link "Facebook Fanpage" [ref=e610] [cursor=pointer]:
+            - /url: https://www.facebook.com/ITviec/
+          - link "Youtube Fanpage" [ref=e614] [cursor=pointer]:
+            - /url: https://www.youtube.com/itviec
+      - heading "About Us" [level=4] [ref=e619] [cursor=pointer]
+      - heading "Campaign" [level=4] [ref=e621] [cursor=pointer]
+      - heading "Terms & Conditions" [level=4] [ref=e623] [cursor=pointer]
+      - generic [ref=e624]:
+        - heading "Want to post a job? Contact us at:" [level=4]
+        - generic [ref=e625]:
+          - generic:
+            - paragraph: "Ho Chi Minh: (+84) 977 460 519"
+          - generic:
+            - paragraph: "Ha Noi: (+84) 983 131 351"
+          - generic:
+            - paragraph: "Email: love@itviec.com"
+          - paragraph [ref=e629]:
+            - link "Submit contact information" [ref=e630] [cursor=pointer]:
+              - /url: /contact-form
+    - separator [ref=e631]
+    - generic [ref=e632]:
+      - paragraph [ref=e633]: Copyright © IT VIEC JSC
+      - paragraph [ref=e634]
+      - paragraph [ref=e635]: "Tax code: 0312192258"
+    - img "footer-image" [ref=e637]

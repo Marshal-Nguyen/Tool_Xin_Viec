@@ -1,0 +1,482 @@
+- generic [active] [ref=f10e1]:
+  - link "NEW Explore outstanding Cloud & Infrastructure jobs. See now" [ref=f10e3] [cursor=pointer]:
+    - /url: https://itviec.com/segments/viec-lam-cloud-infrastructure?click_action=banner_clicked&touchpoint_type=highlight_banner
+    - generic [ref=f10e4]:
+      - generic [ref=f10e5]: NEW
+      - generic [ref=f10e6]:
+        - generic [ref=f10e7]: Explore outstanding Cloud & Infrastructure jobs.
+        - generic [ref=f10e8]: See now
+  - banner [ref=f10e15]:
+    - navigation [ref=f10e17]:
+      - link [ref=f10e24] [cursor=pointer]:
+        - /url: /
+        - img "logo-itviec" [ref=f10e25]
+      - generic [ref=f10e27]:
+        - link [ref=f10e28] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_inbox=true
+        - link [ref=f10e32] [cursor=pointer]:
+          - /url: /sign_in?redirect_to_notifications=true
+        - link "Sign In" [ref=f10e39] [cursor=pointer]:
+          - /url: /sign_in
+  - main [ref=f10e40]:
+    - generic [ref=f10e41]:
+      - generic [ref=f10e43]:
+        - generic [ref=f10e44]:
+          - generic [ref=f10e45]:
+            - generic [ref=f10e46]:
+              - generic [ref=f10e47]:
+                - heading "Mobile Developer (React Native, English)" [level=1] [ref=f10e48]
+                - generic [ref=f10e49]: Digital Unicorn
+                - link "Sign in to view salary" [ref=f10e55] [cursor=pointer]:
+                  - /url: /sign_in?job=mobile-developer-react-native-english-digital-unicorn-0854&view_salary_source=jd_page
+              - generic [ref=f10e57]:
+                - link "Apply now" [ref=f10e58] [cursor=pointer]:
+                  - /url: /sign_in?applying=true&job=mobile-developer-react-native-english-digital-unicorn-0854
+                - link "Save this job" [ref=f10e60] [cursor=pointer]:
+                  - /url: /sign_in
+            - generic [ref=f10e63]:
+              - generic [ref=f10e66]:
+                - generic "About us - Digital Unicorn" [ref=f10e68] [cursor=pointer]
+                - generic [ref=f10e71] [cursor=pointer]: "+2"
+              - generic [ref=f10e73]:
+                - generic [ref=f10e74]:
+                  - generic [ref=f10e75]:
+                    - text: 3F, 94 Ho Nghinh Street, An Hai Ward, Da Nang
+                    - link [ref=f10e78] [cursor=pointer]:
+                      - /url: https://www.google.com/maps?q=3F%2C+94+Ho+Nghinh+Street%2C+An+Hai+Ward%2C+Da+Nang
+                  - generic [ref=f10e81]:
+                    - text: 3F, H&L Building, No 22-24 Ung Van Khiem, Thanh My Tay Ward, Ho Chi Minh
+                    - link [ref=f10e84] [cursor=pointer]:
+                      - /url: https://www.google.com/maps?q=3F%2C+H%26L+Building%2C+No+22-24+Ung+Van+Khiem%2C+Thanh+My+Tay+Ward%2C+Ho+Chi+Minh
+                  - generic [ref=f10e87]: At office
+                  - generic [ref=f10e96]: Posted 27 days ago
+                - generic [ref=f10e100]:
+                  - generic [ref=f10e101]: "Skills:"
+                  - generic [ref=f10e102]:
+                    - link "React Native" [ref=f10e103] [cursor=pointer]:
+                      - /url: /it-jobs/react-native?click_source=Skill+tag
+                    - link "CI/CD" [ref=f10e104] [cursor=pointer]:
+                      - /url: /it-jobs/ci-cd?click_source=Skill+tag
+                    - link "API" [ref=f10e105] [cursor=pointer]:
+                      - /url: /it-jobs/api?click_source=Skill+tag
+                    - link "NodeJS" [ref=f10e106] [cursor=pointer]:
+                      - /url: /it-jobs/nodejs?click_source=Skill+tag
+                    - link "NestJS" [ref=f10e107] [cursor=pointer]:
+                      - /url: /it-jobs/nestjs?click_source=Skill+tag
+                    - link "TypeScript" [ref=f10e108] [cursor=pointer]:
+                      - /url: /it-jobs/typescript?click_source=Skill+tag
+                - generic [ref=f10e109]:
+                  - generic [ref=f10e110]: "Job Expertise:"
+                  - link "Mobile Application Developer" [ref=f10e112] [cursor=pointer]:
+                    - /url: /it-jobs/mobile-application-developer
+                - generic [ref=f10e113]:
+                  - generic [ref=f10e114]: "Job Domain:"
+                  - generic [ref=f10e115]: Software Development Outsourcing
+            - generic [ref=f10e117]:
+              - generic [ref=f10e118]:
+                - heading "Job description" [level=2] [ref=f10e119]
+                - paragraph [ref=f10e120]:
+                  - strong [ref=f10e121]: About Digital Unicorn
+                - paragraph [ref=f10e122]: Digital Unicorn is a mobile and web development agency focused on creating great digital products that truly matter to our customers. We work closely with startups, scale-ups, and established companies to design and build high-quality applications with strong product thinking, clean execution, and long-term value in mind.
+                - paragraph [ref=f10e123]: Our team is international, highly motivated, and hands-on. We value ownership, clarity, and craftsmanship. We keep things practical, move fast, and expect everyone to contribute directly to the success of our projects and our clients.
+                - paragraph [ref=f10e124]: We believe great products come from people who care deeply about users, quality, and collaboration.
+                - paragraph [ref=f10e125]
+                - paragraph [ref=f10e126]:
+                  - strong [ref=f10e127]: About the Role
+                - paragraph [ref=f10e128]: We are looking for a Mobile Developer (React Native) to join our growing delivery team and work on high-impact client projects.
+                - paragraph [ref=f10e129]: You will be involved in building, improving, and maintaining real-world products used by real users. At any given time, you will focus on the most important product or technical challenge for your project.
+                - paragraph [ref=f10e130]: This role is ideal for someone who enjoys taking responsibility, working closely with PMs, designers, and other engineers, and turning ideas into reliable, well-crafted software.
+                - paragraph [ref=f10e131]:
+                  - strong [ref=f10e132]: "Level:"
+                  - strong [ref=f10e133]: Middle/Senior
+                - paragraph [ref=f10e134]:
+                  - strong [ref=f10e135]: "Type: Onsite, Fulltime, Inhouse"
+                - paragraph [ref=f10e136]
+                - paragraph [ref=f10e137]:
+                  - strong [ref=f10e138]: What You Will Do
+                - list [ref=f10e139]:
+                  - listitem [ref=f10e140]:
+                    - strong [ref=f10e141]: What You Will Do
+                  - listitem [ref=f10e142]:
+                    - text: Build and maintain mobile apps with
+                    - strong [ref=f10e143]: React Native and Expo (iOS and Android)
+                    - text: ", from feature design to"
+                    - strong [ref=f10e144]: App Store / Google Play release
+                  - listitem [ref=f10e145]:
+                    - strong [ref=f10e146]: Develop web interfaces
+                    - text: "when needed: React admin panels, dashboards, internal tools"
+                  - listitem [ref=f10e147]:
+                    - text: Work with
+                    - strong [ref=f10e148]: Supabase for database, authentication, real-time subscriptions, and edge functions
+                  - listitem [ref=f10e149]:
+                    - text: Contribute to
+                    - strong [ref=f10e150]: back-end services built with NestJS
+                    - text: or similar frameworks
+                  - listitem [ref=f10e151]: Write clean, tested code following team conventions (conventional commits, monorepo structure)
+                  - listitem [ref=f10e152]: Participate in code reviews and help improve code quality across the team
+                  - listitem [ref=f10e153]:
+                    - strong [ref=f10e154]: Collaborate daily with PMs, BAs, QC
+                    - text: engineers, and designers to deliver features
+                  - listitem [ref=f10e155]: Communicate clearly in English with international stakeholders and team members
+                  - listitem [ref=f10e156]: Use AI tools daily to accelerate development and maintain high standards
+              - generic [ref=f10e158]:
+                - heading "Your skills and experience" [level=2] [ref=f10e159]
+                - paragraph [ref=f10e160]
+                - paragraph [ref=f10e161]:
+                  - text: We're looking for developers who are comfortable working in a modern,
+                  - strong [ref=f10e162]: AI-assisted development environment
+                  - text: "and meet most of the following requirements:"
+                - list [ref=f10e163]:
+                  - listitem [ref=f10e164]:
+                    - strong [ref=f10e165]: Required Skills
+                  - listitem [ref=f10e166]: "AI-assisted development: Confident using AI tools (e.g. Claude Code, Claude Skills) to write, review, and improve code."
+                  - listitem [ref=f10e167]: "React Native & Expo: Experience building and shipping production mobile applications.TypeScript: Strong practical experience."
+                  - listitem [ref=f10e168]: "Supabase: Hands-on experience with database, authentication, real-time features, and Edge Functions."
+                  - listitem [ref=f10e169]: "NestJS / Node.js: Experience with NestJS or similar backend frameworks."
+                  - listitem [ref=f10e170]: "REST APIs: Solid understanding of API design and backend fundamentals."
+                  - listitem [ref=f10e171]: "Git: Familiar with standard Git workflows and conventional commits."
+                  - listitem [ref=f10e172]: "Testing: Experience writing unit and integration tests (e.g. Vitest, Testing Library, Maestro)."
+                  - listitem [ref=f10e173]: "English: Professional working proficiency for collaborating with international clients."
+                  - listitem [ref=f10e174]: "Teamwork: Experience working effectively with PMs, BAs, QCs, and designers."
+                  - listitem [ref=f10e175]: Experience working in an agency or consulting environment
+                - paragraph [ref=f10e176]:
+                  - strong [ref=f10e177]: Nice to Have
+                - list [ref=f10e178]:
+                  - listitem [ref=f10e179]: NativeWind, Expo Router, or Turbo monorepos
+                  - listitem [ref=f10e180]: Bun or other modern JavaScript runtimes
+                  - listitem [ref=f10e181]: Biome, oxlint, or modern linting tools
+                  - listitem [ref=f10e182]: OAuth2, SSO, or payment integrations (Stripe, PayPal, BitPay)
+                  - listitem [ref=f10e183]: CI/CD pipelines (GitHub Actions, GitLab CI, EAS)
+                  - listitem [ref=f10e184]: Docker/Podman and basic Kubernetes knowledge
+                  - listitem [ref=f10e185]: Experience integrating AI services or self-hosted AI models
+              - generic [ref=f10e187]:
+                - heading "Why you'll love working here" [level=2] [ref=f10e188]
+                - list [ref=f10e189]:
+                  - listitem [ref=f10e190]:
+                    - strong [ref=f10e191]: Open to discuss about Salary & bonus, aligned with your skills and experience
+                  - listitem [ref=f10e192]:
+                    - strong [ref=f10e193]: 100% salary during the probation period
+                  - listitem [ref=f10e194]: Insurance coverage according to local regulations
+                  - listitem [ref=f10e195]:
+                    - strong [ref=f10e196]: Work on real products with real impact
+                  - listitem [ref=f10e197]:
+                    - strong [ref=f10e198]: Learn from experienced engineers, PMs, and managers
+                  - listitem [ref=f10e199]: Grow your technical and product skills quickly
+                  - listitem [ref=f10e200]: International working environment, English-speaking environment with direct client exposure
+                  - listitem [ref=f10e201]: A culture that values quality, responsibility, and continuous improvement
+                  - listitem [ref=f10e202]: Project ownership – make meaningful contributions from day one
+                  - listitem [ref=f10e203]: Dynamic, comfortable, and creative working environment
+                  - listitem [ref=f10e204]: Team building events & company trips every year, Happy Hour every Friday
+                  - listitem [ref=f10e205]: Snacks and fresh fruits always available for your break times
+                  - listitem [ref=f10e206]: Sports & wellness activities to recharge and boost energy
+          - generic [ref=f10e208]:
+            - generic [ref=f10e209]:
+              - link [ref=f10e210] [cursor=pointer]:
+                - /url: /companies/digital-unicorn
+              - heading [level=3] [ref=f10e213]:
+                - link "Digital Unicorn" [ref=f10e214] [cursor=pointer]:
+                  - /url: /companies/digital-unicorn
+            - paragraph [ref=f10e216]: Digital Unicorn
+            - generic [ref=f10e217]:
+              - generic [ref=f10e218]:
+                - generic [ref=f10e219]: Company type
+                - generic [ref=f10e220]: IT Outsourcing
+              - generic [ref=f10e221]:
+                - generic [ref=f10e222]: Company industry
+                - generic [ref=f10e223]: Software Development Outsourcing
+              - generic [ref=f10e226]:
+                - generic [ref=f10e227]: Company size
+                - generic [ref=f10e228]: 151-300 employees
+              - generic [ref=f10e229]:
+                - generic [ref=f10e230]: Country
+                - generic [ref=f10e231]: France
+              - generic [ref=f10e235]:
+                - generic [ref=f10e236]: Working days
+                - generic [ref=f10e237]: Monday - Friday
+              - generic [ref=f10e238]:
+                - generic [ref=f10e239]: Overtime policy
+                - generic [ref=f10e240]: No OT
+        - generic [ref=f10e243]:
+          - heading "More jobs for you" [level=2] [ref=f10e244]
+          - generic [ref=f10e246]:
+            - generic [ref=f10e247]: Get similar jobs by email
+            - link "Subscribe" [ref=f10e248] [cursor=pointer]:
+              - /url: /sign_in
+          - generic [ref=f10e252]:
+            - generic [ref=f10e255] [cursor=pointer]:
+              - generic [ref=f10e256]: Posted 15 days ago
+              - heading [level=3] [ref=f10e258]:
+                - link "React Native Architect" [ref=f10e259]:
+                  - /url: /it-jobs/react-native-architect-kms-technology-5253?lab_feature=similar_job
+              - generic [ref=f10e260]:
+                - link "KMS Technology Profile" [ref=f10e261]:
+                  - /url: /companies/kms-technology?lab_feature=similar_job
+                - link "KMS Technology" [ref=f10e264]:
+                  - /url: /companies/kms-technology?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e270]:
+                - /url: /sign_in?job=react-native-architect-kms-technology-5253&view_salary_source=jd_page
+              - link "Mobile Application Developer" [ref=f10e275]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=f10e276]:
+                - generic [ref=f10e283]: Hybrid
+                - generic "Ho Chi Minh - Da Nang" [ref=f10e287]
+              - generic [ref=f10e288]:
+                - link "React Native" [ref=f10e289]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "GraphQL" [ref=f10e290]:
+                  - /url: /it-jobs/graphql?click_source=Skill+tag
+                - link "CI/CD" [ref=f10e291]:
+                  - /url: /it-jobs/ci-cd?click_source=Skill+tag
+                - link "Redux" [ref=f10e292]:
+                  - /url: /it-jobs/redux?click_source=Skill+tag
+                - link "JavaScript" [ref=f10e293]:
+                  - /url: /it-jobs/javascript?click_source=Skill+tag
+                - link "English" [ref=f10e294]:
+                  - /url: /it-jobs/english?click_source=Skill+tag
+            - generic [ref=f10e297] [cursor=pointer]:
+              - generic [ref=f10e298]: Posted 15 days ago
+              - heading [level=3] [ref=f10e300]:
+                - link "Senior/Lead Engineer (React Native, ReactJS, ≥5yoe)" [ref=f10e301]:
+                  - /url: /it-jobs/senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955?lab_feature=similar_job
+              - generic [ref=f10e302]:
+                - link "Pizza Hut Digital & Technology Profile" [ref=f10e303]:
+                  - /url: /companies/pizza-hut-digital-technology?lab_feature=similar_job
+                - link "Pizza Hut Digital & Technology" [ref=f10e306]:
+                  - /url: /companies/pizza-hut-digital-technology?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e312]:
+                - /url: /sign_in?job=senior-lead-engineer-react-native-reactjs-5yoe-pizza-hut-digital-technology-2955&view_salary_source=jd_page
+              - link "Frontend Developer" [ref=f10e317]:
+                - /url: /it-jobs/frontend-developer
+              - generic [ref=f10e318]:
+                - generic [ref=f10e325]: Hybrid
+                - generic "Ho Chi Minh" [ref=f10e329]
+              - generic [ref=f10e330]:
+                - link "React Native" [ref=f10e331]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "Leadership" [ref=f10e332]:
+                  - /url: /it-jobs/leadership?click_source=Skill+tag
+                - link "Mobile Apps" [ref=f10e333]:
+                  - /url: /it-jobs/mobile-apps?click_source=Skill+tag
+                - link "AI" [ref=f10e334]:
+                  - /url: /it-jobs/ai?click_source=Skill+tag
+                - link "TypeScript" [ref=f10e335]:
+                  - /url: /it-jobs/typescript?click_source=Skill+tag
+                - link "ReactJS" [ref=f10e336]:
+                  - /url: /it-jobs/reactjs?click_source=Skill+tag
+            - generic [ref=f10e339] [cursor=pointer]:
+              - generic [ref=f10e340]: Posted 23 days ago
+              - heading [level=3] [ref=f10e342]:
+                - link "Senior Expo / React Native Developer" [ref=f10e343]:
+                  - /url: /it-jobs/senior-expo-react-native-developer-annam-software-company-4829?lab_feature=similar_job
+              - generic [ref=f10e344]:
+                - link "Annam Software Company Profile" [ref=f10e345]:
+                  - /url: /companies/annam-software-company?lab_feature=similar_job
+                - link "Annam Software Company" [ref=f10e348]:
+                  - /url: /companies/annam-software-company?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e354]:
+                - /url: /sign_in?job=senior-expo-react-native-developer-annam-software-company-4829&view_salary_source=jd_page
+              - link "Mobile Application Developer" [ref=f10e359]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=f10e360]:
+                - generic [ref=f10e367]: At office
+                - generic "Ho Chi Minh" [ref=f10e371]
+              - generic [ref=f10e372]:
+                - link "React Native" [ref=f10e373]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "TypeScript" [ref=f10e374]:
+                  - /url: /it-jobs/typescript?click_source=Skill+tag
+            - generic [ref=f10e377] [cursor=pointer]:
+              - generic [ref=f10e378]: Posted 30 days ago
+              - heading [level=3] [ref=f10e380]:
+                - link "Senior React Native Engineer (Full-stack, Node.js)" [ref=f10e381]:
+                  - /url: /it-jobs/senior-react-native-engineer-full-stack-node-js-bewao-corporation-3501?lab_feature=similar_job
+              - generic [ref=f10e382]:
+                - link "BEWAO CORPORATION Profile" [ref=f10e383]:
+                  - /url: /companies/bewao-corporation?lab_feature=similar_job
+                - link "BEWAO CORPORATION" [ref=f10e386]:
+                  - /url: /companies/bewao-corporation?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e392]:
+                - /url: /sign_in?job=senior-react-native-engineer-full-stack-node-js-bewao-corporation-3501&view_salary_source=jd_page
+              - link "Mobile Application Developer" [ref=f10e397]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=f10e398]:
+                - generic [ref=f10e405]: At office
+                - generic "Ho Chi Minh" [ref=f10e409]
+              - generic [ref=f10e410]:
+                - link "React Native" [ref=f10e411]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "API" [ref=f10e412]:
+                  - /url: /it-jobs/api?click_source=Skill+tag
+                - link "GraphQL" [ref=f10e413]:
+                  - /url: /it-jobs/graphql?click_source=Skill+tag
+                - link "TypeScript" [ref=f10e414]:
+                  - /url: /it-jobs/typescript?click_source=Skill+tag
+                - link "Mobile Apps" [ref=f10e415]:
+                  - /url: /it-jobs/mobile-apps?click_source=Skill+tag
+                - link "NodeJS" [ref=f10e416]:
+                  - /url: /it-jobs/nodejs?click_source=Skill+tag
+            - generic [ref=f10e419] [cursor=pointer]:
+              - generic [ref=f10e420]: SUPER HOT
+              - generic [ref=f10e423]: Posted 6 days ago
+              - heading [level=3] [ref=f10e425]:
+                - link "Solution Designer (Mobile)" [ref=f10e426]:
+                  - /url: /it-jobs/solution-designer-mobile-nab-innovation-centre-vietnam-1009?lab_feature=similar_job
+              - generic [ref=f10e427]:
+                - link "NAB Innovation Centre Vietnam Profile" [ref=f10e428]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+                - link "NAB Innovation Centre Vietnam" [ref=f10e431]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e437]:
+                - /url: /sign_in?job=solution-designer-mobile-nab-innovation-centre-vietnam-1009&view_salary_source=jd_page
+              - link "Solution Architect" [ref=f10e442]:
+                - /url: /it-jobs/solution-architect
+              - generic [ref=f10e443]:
+                - generic [ref=f10e450]: Hybrid
+                - generic "Ho Chi Minh" [ref=f10e454]
+              - generic [ref=f10e455]:
+                - link "React Native" [ref=f10e456]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "Solution Architecture" [ref=f10e457]:
+                  - /url: /it-jobs/solution-architecture?click_source=Skill+tag
+                - link "ReactJS" [ref=f10e458]:
+                  - /url: /it-jobs/reactjs?click_source=Skill+tag
+                - link "Mobile Apps" [ref=f10e459]:
+                  - /url: /it-jobs/mobile-apps?click_source=Skill+tag
+                - link "English" [ref=f10e460]:
+                  - /url: /it-jobs/english?click_source=Skill+tag
+            - generic [ref=f10e463] [cursor=pointer]:
+              - generic [ref=f10e464]: Posted 21 days ago
+              - heading [level=3] [ref=f10e466]:
+                - link "Mobile Software Engineer - Attractive Salary" [ref=f10e467]:
+                  - /url: /it-jobs/mobile-software-engineer-attractive-salary-buymed-1134?lab_feature=similar_job
+              - generic [ref=f10e468]:
+                - link "Buymed Profile" [ref=f10e469]:
+                  - /url: /companies/buymed?lab_feature=similar_job
+                - link "Buymed" [ref=f10e472]:
+                  - /url: /companies/buymed?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e478]:
+                - /url: /sign_in?job=mobile-software-engineer-attractive-salary-buymed-1134&view_salary_source=jd_page
+              - link "Mobile Application Developer" [ref=f10e483]:
+                - /url: /it-jobs/mobile-application-developer
+              - generic [ref=f10e484]:
+                - generic [ref=f10e491]: At office
+                - generic "Ho Chi Minh" [ref=f10e495]
+              - generic [ref=f10e496]:
+                - link "Mobile Apps" [ref=f10e497]:
+                  - /url: /it-jobs/mobile-apps?click_source=Skill+tag
+                - link "Software Architecture" [ref=f10e498]:
+                  - /url: /it-jobs/software-architecture?click_source=Skill+tag
+                - link "API" [ref=f10e499]:
+                  - /url: /it-jobs/api?click_source=Skill+tag
+                - link "React Native" [ref=f10e500]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "Android" [ref=f10e501]:
+                  - /url: /it-jobs/android?click_source=Skill+tag
+                - link "iOS" [ref=f10e502]:
+                  - /url: /it-jobs/ios?click_source=Skill+tag
+            - generic [ref=f10e505] [cursor=pointer]:
+              - generic [ref=f10e506]: Posted 28 days ago
+              - heading [level=3] [ref=f10e508]:
+                - link "Mid / Senior Backend Developer (NodeJS)" [ref=f10e509]:
+                  - /url: /it-jobs/mid-senior-be-developer-excel-technologies-5829?lab_feature=similar_job
+              - generic [ref=f10e510]:
+                - link "Excel Technologies Profile" [ref=f10e511]:
+                  - /url: /companies/excel-technologies?lab_feature=similar_job
+                - link "Excel Technologies" [ref=f10e514]:
+                  - /url: /companies/excel-technologies?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e520]:
+                - /url: /sign_in?job=mid-senior-be-developer-excel-technologies-5829&view_salary_source=jd_page
+              - link "Backend Developer" [ref=f10e525]:
+                - /url: /it-jobs/backend-developer
+              - generic [ref=f10e526]:
+                - generic [ref=f10e533]: At office
+                - generic "Ho Chi Minh" [ref=f10e537]
+              - generic [ref=f10e538]:
+                - link "NodeJS" [ref=f10e539]:
+                  - /url: /it-jobs/nodejs?click_source=Skill+tag
+                - link "AI" [ref=f10e540]:
+                  - /url: /it-jobs/ai?click_source=Skill+tag
+                - link "Microservices" [ref=f10e541]:
+                  - /url: /it-jobs/microservices?click_source=Skill+tag
+                - link "SQL" [ref=f10e542]:
+                  - /url: /it-jobs/sql?click_source=Skill+tag
+                - link "React Native" [ref=f10e543]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "JavaScript" [ref=f10e544]:
+                  - /url: /it-jobs/javascript?click_source=Skill+tag
+            - generic [ref=f10e547] [cursor=pointer]:
+              - generic [ref=f10e548]: Posted 30 days ago
+              - heading [level=3] [ref=f10e550]:
+                - link "Engineering Manager (Frontend/Mobile)" [ref=f10e551]:
+                  - /url: /it-jobs/engineering-manager-frontend-mobile-nab-innovation-centre-vietnam-2757?lab_feature=similar_job
+              - generic [ref=f10e552]:
+                - link "NAB Innovation Centre Vietnam Profile" [ref=f10e553]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+                - link "NAB Innovation Centre Vietnam" [ref=f10e556]:
+                  - /url: /companies/nab-innovation-centre-vietnam?lab_feature=similar_job
+              - link "Sign in to view salary" [ref=f10e562]:
+                - /url: /sign_in?job=engineering-manager-frontend-mobile-nab-innovation-centre-vietnam-2757&view_salary_source=jd_page
+              - link "Manager" [ref=f10e567]:
+                - /url: /it-jobs/manager
+              - generic [ref=f10e568]:
+                - generic [ref=f10e575]: Hybrid
+                - generic "Ho Chi Minh" [ref=f10e579]
+              - generic [ref=f10e580]:
+                - link "React Native" [ref=f10e581]:
+                  - /url: /it-jobs/react-native?click_source=Skill+tag
+                - link "ReactJS" [ref=f10e582]:
+                  - /url: /it-jobs/reactjs?click_source=Skill+tag
+                - link "Leadership" [ref=f10e583]:
+                  - /url: /it-jobs/leadership?click_source=Skill+tag
+                - link "Agile" [ref=f10e584]:
+                  - /url: /it-jobs/agile?click_source=Skill+tag
+                - link "English" [ref=f10e585]:
+                  - /url: /it-jobs/english?click_source=Skill+tag
+      - generic [ref=f10e587] [cursor=pointer]:
+        - generic [ref=f10e588]: Feedback
+        - img "survey-icon" [ref=f10e589]
+    - generic [ref=f10e594]:
+      - link "Home" [ref=f10e596] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f10e597]:
+        - generic [ref=f10e598]: ›
+        - link "All IT jobs" [ref=f10e599] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs
+      - generic [ref=f10e600]:
+        - generic [ref=f10e601]: ›
+        - link "Mobile Developer (React Native, English)" [ref=f10e602] [cursor=pointer]:
+          - /url: https://itviec.com/it-jobs/mobile-developer-react-native-english-digital-unicorn-0854
+  - contentinfo [ref=f10e603]:
+    - generic [ref=f10e605]:
+      - generic [ref=f10e607]:
+        - generic [ref=f10e608]:
+          - img "logo-itviec" [ref=f10e609]
+          - paragraph [ref=f10e610]: BUILD YOU THEN BUILD IMPACT
+        - generic [ref=f10e611]:
+          - link "LinkedIn Profile" [ref=f10e612] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/itviec/
+          - link "Facebook Fanpage" [ref=f10e616] [cursor=pointer]:
+            - /url: https://www.facebook.com/ITviec/
+          - link "Youtube Fanpage" [ref=f10e620] [cursor=pointer]:
+            - /url: https://www.youtube.com/itviec
+      - heading "About Us" [level=4] [ref=f10e625] [cursor=pointer]
+      - heading "Campaign" [level=4] [ref=f10e627] [cursor=pointer]
+      - heading "Terms & Conditions" [level=4] [ref=f10e629] [cursor=pointer]
+      - generic [ref=f10e630]:
+        - heading "Want to post a job? Contact us at:" [level=4]
+        - generic [ref=f10e631]:
+          - generic:
+            - paragraph: "Ho Chi Minh: (+84) 977 460 519"
+          - generic:
+            - paragraph: "Ha Noi: (+84) 983 131 351"
+          - generic:
+            - paragraph: "Email: love@itviec.com"
+          - paragraph [ref=f10e635]:
+            - link "Submit contact information" [ref=f10e636] [cursor=pointer]:
+              - /url: /contact-form
+    - separator [ref=f10e637]
+    - generic [ref=f10e638]:
+      - paragraph [ref=f10e639]: Copyright © IT VIEC JSC
+      - paragraph [ref=f10e640]
+      - paragraph [ref=f10e641]: "Tax code: 0312192258"
+    - img "footer-image" [ref=f10e643]
